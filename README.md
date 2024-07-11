@@ -7,8 +7,6 @@
 #### Imagem do projeto
 ##### Nome: Projeto de busca de repositório no GitHub feito com react e typescript.
 
-##### Link: 
-
 <img align="center" src="/github-finder/public/projeto.png" alt="imagem do projeto"/>
 
 #### Tecnologias Usadas no projeto
